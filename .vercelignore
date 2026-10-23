@@ -1,0 +1,16 @@
+.codex-npm-cache-vercel
+.env*
+backend/.env*
+.next
+.next-*
+.next-e2e
+.next-preview8
+.next-phase8-build
+.next-phase9-build
+test-results
+playwright-report
+coverage
+backend/.venv
+backend/__pycache__
+backend/.pytest_cache
+.pytest_cache
